@@ -97,7 +97,7 @@ Languages and Tools:
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="   https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" width="40" height="40"/> </a>
 <a href="https://platformio.org//" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="platform-io" width="40" height="40"/> </a>
 <a href="https://www.keil.com/download/product/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Keil_(company)/Keil_(company)-Logo.wine.svg" alt="keil" width="100" height="40"/> </a>
 </p>
