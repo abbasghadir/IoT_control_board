@@ -1,0 +1,16 @@
+void SystemClock_Config(void);
+static void MX_GPIO_Init(void);
+static void MX_DMA_Init(void);
+static void MX_RTC_Init(void);
+static void MX_TIM2_Init(void);
+static void MX_USART1_UART_Init(void);
+void RTC_time_init(uint8_t hour, uint8_t min, uint8_t sec, uint16_t year,uint8_t mon, uint8_t day);
+void get_time(void);
+void get_date(void);
+void led_on(void);
+void led_off(void);
+bool interrupt_routine(void);
+void buff_UART_send(void);
+void epoch_to_timedate(uint32_t epoch);
+void led_toggle(void);
+void handle_NTP_time(void);
